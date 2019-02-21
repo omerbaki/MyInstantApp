@@ -7,3 +7,5 @@ Running:
 1) Running myapp - regular installation and running
 2) Runn instantapp - initializing http://soluto.com/main that display MainActivity with no installation
 
+reference:
+https://www.youtube.com/watch?v=uEfgSFk8-vw
